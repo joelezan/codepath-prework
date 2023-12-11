@@ -13,18 +13,16 @@ Time spent: **20** hours spent in total
 
 The following **required** functionality is completed:
 
-- [y ] Users are see a screen with three labels and a button
-- [ y] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-
-    <a href="https://www.loom.com/share/6c1ae9a9a946414faa43f86820e0b6db">
-      
-    </a>
-    <a href="https://www.loom.com/share/6c1ae9a9a946414faa43f86820e0b6db">
+<a href="https://www.loom.com/share/6c1ae9a9a946414faa43f86820e0b6db">
+</a>
+<a href="https://www.loom.com/share/6c1ae9a9a946414faa43f86820e0b6db">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6c1ae9a9a946414faa43f86820e0b6db-with-play.gif">
-    </a>
+</a>
 
 
 ## App Brainstorming (Step 4)
@@ -45,7 +43,7 @@ The following **required** functionality is completed:
             -Ability to back up messages
             
             
-APP IDEA:
+##APP IDEA:
 My app would be a travel companion. One that would use the power of AI and geolocalization to provide the user with fun facts and historical information based on the region of the world that they are visiting. 
     They would also be able to look for facts about other regions as well if they choose to.
             
@@ -53,7 +51,6 @@ My app would be a travel companion. One that would use the power of AI and geolo
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 The main challenge was getting used to the different functionnality of XCODE. It is still a work in progress.
 
 ## License
